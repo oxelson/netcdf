@@ -25,8 +25,6 @@ topnav_dropdowns:
             external_url: https://github.com/Unidata/netcdf-java
           - title: THREDDS Data Server Github Repo
             external_url: https://github.com/Unidata/tds
-          - title: Rosetta Github Repo
-            external_url: https://github.com/Unidata/Rosetta
           - title: Siphon Github Repo
             external_url: https://github.com/Unidata/siphon
 
@@ -40,8 +38,6 @@ topnav_dropdowns:
       - title: External Docs
         folderitems:
           - title: THREDDS Data Server
-            external_url: https://docs.unidata.ucar.edu/tds/5.0/userguide/index.html
-          - title: Rosetta
-            external_url: https://www.unidata.ucar.edu/software/rosetta/docs/
+            external_url: https://docs.unidata.ucar.edu/tds/current/userguide/index.html
           - title: Siphon
             external_url: https://unidata.github.io/siphon/latest/
